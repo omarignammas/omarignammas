@@ -1,8 +1,8 @@
-<img src="./assets/header.png" width="100%" />
+<img src="header.png" width="100%" />
 
 <h2> Hi, I'm Omar Ignammas! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.pinimg.com/736x/5e/21/b5/5e21b5fa45cc04f8fd35537496ebe6d0.jpg" 
-  width="230" style="border-radius: 50%; border: 3px solid #0077B5; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+
+
 <p><em>🍵 Software Engineer & 🇲🇦 Moroccan Atay lover <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Building <a href="https://faundy.netlify.app">Faundy Platform</a> & <a href="https://dikrplaylist.netlify.app">Dhikr Playlist</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -98,5 +98,9 @@ const omar = {
 
 ---
 
+<p align="center">
+  <em>"Impact is made by helping others grow."</em> ✨<br>
+  <strong>— igna</strong>
+</p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
