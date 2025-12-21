@@ -35,7 +35,9 @@ const omar = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img 
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2c0NzI0Nnlkb2pnZXNjZTQzemZwMGJkbnI3cmMzbm80enAzcTNkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fYVDBkTqVmLybeZAIk/giphy.gif" 
+  width="60" align="center"> <em><b>Being good is common. Going the extra mile is what turns skill into mastery.!</b> :)</em>
 
 ---
 
