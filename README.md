@@ -91,12 +91,11 @@ const omar = {
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-## ⚡️ GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=omarignammas&theme=react&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Omar's GitHub Stats" />
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarignammas&theme=react&layout=compact&hide=css&langs_count=8&show_icons=true&locale=en" alt="Most Used Languages" />
-</div>
+</div> -->
 
 ---
 
