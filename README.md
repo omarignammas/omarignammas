@@ -45,7 +45,7 @@ const omar = {
 
 📫 **Email:** omar.ignammas2003@gmail.com  
 👨‍💻 **Portfolio:** [ignmas.me](https://ignmas.me)  
-📄 **Resume:** [View My CV](https://drive.google.com/drive/folders/1ypMNxH_yXzO8lxYoiZgYY0DRU5ihvMQ3)
+📄 **Resume:** [View My CV](https://drive.google.com/file/d/19tUXNksDs3b2mdx9oSFp6U83-RyIg7vU/view?usp=sharing)
 
 ---
 
