@@ -15,7 +15,7 @@
 const omar = {
   pronouns: "he" | "him",
   location: "Morocco 🇲🇦",
-  passions: ["Humanitarian Activism", "Mentorship", "Tech for Good"],
+  passions: ["Humanitarian Activism","Freelance", "Mentorship", "Tech for Good"],
   code: ["TypeScript", "JavaScript", "Java", "Python", "PHP"],
   tools: ["React", "Redux", "Node", "Next.js", "Spring Boot", "Docker"],
   architecture: ["Microservices", "Event-Driven", "Design System Patterns"],
