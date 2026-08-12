@@ -3,7 +3,7 @@
 <h2> Hi, I'm Omar Ignammas! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
-<p><em>🍵 Software Engineer & 🇲🇦 Moroccan Atay lover <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Building <a href="https://faundy.netlify.app">Faundy Platform</a> & <a href="https://dikrplaylist.netlify.app">Dhikr Playlist</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>🍵 Software Engineer & 🇲🇦 Moroccan Atay lover <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Building <a href="https://trycollab.space/">Collab ai</a> & <a href="https://dikr-station.web.app">Dikr Station</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Omar Ignammas](https://img.shields.io/badge/-Omar%20Ignammas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-ignammas/)](https://www.linkedin.com/in/omar-ignammas/)
